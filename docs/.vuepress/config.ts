@@ -4,6 +4,8 @@ import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
+
 import { path } from "@vuepress/utils";
 import theme from "./theme";
 
@@ -11,13 +13,13 @@ export default defineUserConfig({
   // 网站语言，默认为中文
   lang: "zh-CN",
   // 网站标题
-  title: "LearnData-开源笔记",
+  title: "danerlt的知识库",
   // 网站描述
   description:
-    "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
+    "danerlt的个人知识库, 用于记录个人学习笔记, 以及一些个人的想法和感悟",
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
-  base: "/",
+  base: "/wiki/",
 
   theme,
   // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
@@ -51,6 +53,10 @@ export default defineUserConfig({
     // 谷歌分析 ID
     googleAnalyticsPlugin({
       id: "G-RWKZTY2P9R",
+    }),
+    // 为 VuePress2 提供自动目录页生成
+    autoCatalogPlugin({
+      //插件选项
     }),
   ],
 });
