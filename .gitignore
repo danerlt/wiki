@@ -13,3 +13,9 @@ docs/_temp/
 
 # GoodSync
 _gsdata_/
+
+# idea目录
+.idea/
+
+# vscode目录
+.vscode/
