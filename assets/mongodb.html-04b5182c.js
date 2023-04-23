@@ -1,0 +1,1 @@
+import{_ as o,Y as t,Z as a,$ as e,a0 as n}from"./framework-d3f694d0.js";const c={},r=e("h1",{id:"mongodb常用命令",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mongodb常用命令","aria-hidden":"true"},"#"),n(" MongoDB常用命令")],-1),s=[r];function d(_,i){return t(),a("div",null,s)}const l=o(c,[["render",d],["__file","mongodb.html.vue"]]);export{l as default};

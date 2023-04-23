@@ -1,0 +1,1 @@
+import{_ as t,Y as a,Z as n,$ as e,a0 as c}from"./framework-d3f694d0.js";const r={},s=e("h1",{id:"numpy-用法",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#numpy-用法","aria-hidden":"true"},"#"),c(" numpy 用法")],-1),o=[s];function _(d,i){return a(),n("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

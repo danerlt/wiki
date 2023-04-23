@@ -1,0 +1,1 @@
+import{_ as t,Y as s,Z as a,$ as e,a0 as r}from"./framework-d3f694d0.js";const c={},n=e("h1",{id:"k8s常用命令",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#k8s常用命令","aria-hidden":"true"},"#"),r(" K8S常用命令")],-1),o=[n];function _(d,i){return s(),a("div",null,o)}const l=t(c,[["render",_],["__file","kubernetes.html.vue"]]);export{l as default};

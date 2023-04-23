@@ -1,0 +1,1 @@
+import{_ as t,Y as a,Z as n,$ as e,a0 as c}from"./framework-d3f694d0.js";const r={},s=e("h1",{id:"linux常用命令",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linux常用命令","aria-hidden":"true"},"#"),c(" Linux常用命令")],-1),o=[s];function i(_,l){return a(),n("div",null,o)}const u=t(r,[["render",i],["__file","linux.html.vue"]]);export{u as default};

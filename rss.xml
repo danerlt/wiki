@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://danerlt.top/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://danerlt.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>danerlt的知识库</title>
+    <link>https://danerlt.top/</link>
+    <description>danerlt的个人知识库, 用于记录个人学习笔记, 以及一些个人的想法和感悟</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 23 Apr 2023 06:44:33 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 06:44:33 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>关于</title>
+      <link>https://danerlt.top/about/</link>
+      <guid>https://danerlt.top/about/</guid>
+      <source url="https://danerlt.top/rss.xml">关于</source>
+      <description>关于 我是谁 我从哪里来 我要到哪里去</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 关于</h1>
+<p>我是谁</p>
+<p>我从哪里来</p>
+<p>我要到哪里去</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Docker常用命令</title>
+      <link>https://danerlt.top/command/docker.html</link>
+      <guid>https://danerlt.top/command/docker.html</guid>
+      <source url="https://danerlt.top/rss.xml">Docker常用命令</source>
+      <description>Docker常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Docker常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Git常用命令</title>
+      <link>https://danerlt.top/command/git.html</link>
+      <guid>https://danerlt.top/command/git.html</guid>
+      <source url="https://danerlt.top/rss.xml">Git常用命令</source>
+      <description>Git常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Git常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>K8S常用命令</title>
+      <link>https://danerlt.top/command/kubernetes.html</link>
+      <guid>https://danerlt.top/command/kubernetes.html</guid>
+      <source url="https://danerlt.top/rss.xml">K8S常用命令</source>
+      <description>K8S常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> K8S常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Linux常用命令</title>
+      <link>https://danerlt.top/command/linux.html</link>
+      <guid>https://danerlt.top/command/linux.html</guid>
+      <source url="https://danerlt.top/rss.xml">Linux常用命令</source>
+      <description>Linux常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Linux常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MongoDB常用命令</title>
+      <link>https://danerlt.top/command/mongodb.html</link>
+      <guid>https://danerlt.top/command/mongodb.html</guid>
+      <source url="https://danerlt.top/rss.xml">MongoDB常用命令</source>
+      <description>MongoDB常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> MongoDB常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MySQL常用命令</title>
+      <link>https://danerlt.top/command/mysql.html</link>
+      <guid>https://danerlt.top/command/mysql.html</guid>
+      <source url="https://danerlt.top/rss.xml">MySQL常用命令</source>
+      <description>MySQL常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> MySQL常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Redis常用命令</title>
+      <link>https://danerlt.top/command/redis.html</link>
+      <guid>https://danerlt.top/command/redis.html</guid>
+      <source url="https://danerlt.top/rss.xml">Redis常用命令</source>
+      <description>Redis常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Redis常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>vim常用命令</title>
+      <link>https://danerlt.top/command/vim.html</link>
+      <guid>https://danerlt.top/command/vim.html</guid>
+      <source url="https://danerlt.top/rss.xml">vim常用命令</source>
+      <description>vim常用命令</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> vim常用命令</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>IDEA系列激活</title>
+      <link>https://danerlt.top/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</link>
+      <guid>https://danerlt.top/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</guid>
+      <source url="https://danerlt.top/rss.xml">IDEA系列激活</source>
+      <description>IDEA系列激活 以 WebStorm 2022.2.3 为例 安装 WebStorm 点击 WebStorm-2022.2.3.exe,然后点击next 设置如下: 等待安装完成,点击finish</description>
+      <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> IDEA系列激活</h1>
+<p>以 WebStorm 2022.2.3 为例</p>
+<h2> 安装 WebStorm</h2>
+<p>点击 <code>WebStorm-2022.2.3.exe</code>,然后点击<code>next</code>
+<img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-E70ong.png" alt="" loading="lazy">
+设置如下:
+<img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-Fl7nPr.png" alt="" loading="lazy">
+等待安装完成,点击<code>finish</code>
+<img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-cizHsc.png" alt="" loading="lazy"></p>
+<h2> 下载激活包</h2>
+<p>打开: <a href="https://www.jiweichengzhu.com/ide/code" target="_blank" rel="noopener noreferrer">https://www.jiweichengzhu.com/ide/code</a></p>
+<p>关注这个博主: 【雨落无影】的微信公众号,回复关键字【下载】获取下载码</p>
+<p>文件类型选择<code>ja-netfilter.v3</code>,然后输入下载码,点击下载</p>
+<figure><img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-9a6KCF.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>然后将压缩包解压, 我这里用的目录是:<code>D:/Program Files/ja-netfilter.v3</code>, 后面的配置文件中路径要和这个路径保持一致.</p>
+<figure><img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-Te6lhu.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 修改vmoptions文件</h2>
+<p>vmoptions文件路径为:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>修改后的内容如下:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><strong>修改配置之后要重启IDE,这一步一定要执行</strong></p>
+<h2> 填入激活码</h2>
+<p>还是打开: <a href="https://www.jiweichengzhu.com/ide/code" target="_blank" rel="noopener noreferrer">https://www.jiweichengzhu.com/ide/code</a></p>
+<p>选择文件类型下拉框选择<code>激活码</code>,然后选择 IDE 为 WebStorm, 然后输入公众号获取的下载码.</p>
+<figure><img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-HOVuA6.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>然后点击<code>Help</code>-&gt;<code>Register</code>, 再点击<code>Activate New License</code>
+<img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-RYDbWV.png" alt="" loading="lazy"></p>
+<p>选择<code>Activation Code</code>填入上面下载的激活码, <code>Code With Me</code>插件也需要填入激活码</p>
+<figure><img src="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-XSBqnl.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>参考链接: <a href="https://www.jiweichengzhu.com/article/edb833a8005144beb3486d6af18826fa" target="_blank" rel="noopener noreferrer">IntelliJ IDEA 2022.2 版本最新2099年永久激活方法，亲测可用，也可以开启新UI了。</a></p>
+]]></content:encoded>
+      <enclosure url="https://danerlt-1258802437.cos.ap-chongqing.myqcloud.com/2023-04-19-E70ong.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
