@@ -22,7 +22,7 @@ export default defineUserConfig({
     "danerlt的个人知识库, 用于记录个人学习笔记, 以及一些个人的想法和感悟",
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
-  base: "/",
+  base: "/wiki/",
 
   theme,
   // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
