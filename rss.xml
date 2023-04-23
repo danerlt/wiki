@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://danerlt.top/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://danerlt.top/wiki/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://danerlt.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://danerlt.top/wiki/rss.xml" rel="self" type="application/rss+xml"/>
     <title>danerlt的知识库</title>
-    <link>https://danerlt.top/</link>
+    <link>https://danerlt.top/wiki/</link>
     <description>danerlt的个人知识库, 用于记录个人学习笔记, 以及一些个人的想法和感悟</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Apr 2023 06:56:08 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Apr 2023 06:56:08 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Apr 2023 07:01:24 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Apr 2023 07:01:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
       <title>关于</title>
-      <link>https://danerlt.top/about/</link>
-      <guid>https://danerlt.top/about/</guid>
-      <source url="https://danerlt.top/rss.xml">关于</source>
+      <link>https://danerlt.top/wiki/about/</link>
+      <guid>https://danerlt.top/wiki/about/</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">关于</source>
       <description>关于 我是谁 我从哪里来 我要到哪里去</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 关于</h1>
@@ -25,9 +25,9 @@
     </item>
     <item>
       <title>Docker常用命令</title>
-      <link>https://danerlt.top/command/docker.html</link>
-      <guid>https://danerlt.top/command/docker.html</guid>
-      <source url="https://danerlt.top/rss.xml">Docker常用命令</source>
+      <link>https://danerlt.top/wiki/command/docker.html</link>
+      <guid>https://danerlt.top/wiki/command/docker.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">Docker常用命令</source>
       <description>Docker常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Docker常用命令</h1>
@@ -35,9 +35,9 @@
     </item>
     <item>
       <title>Git常用命令</title>
-      <link>https://danerlt.top/command/git.html</link>
-      <guid>https://danerlt.top/command/git.html</guid>
-      <source url="https://danerlt.top/rss.xml">Git常用命令</source>
+      <link>https://danerlt.top/wiki/command/git.html</link>
+      <guid>https://danerlt.top/wiki/command/git.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">Git常用命令</source>
       <description>Git常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Git常用命令</h1>
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>K8S常用命令</title>
-      <link>https://danerlt.top/command/kubernetes.html</link>
-      <guid>https://danerlt.top/command/kubernetes.html</guid>
-      <source url="https://danerlt.top/rss.xml">K8S常用命令</source>
+      <link>https://danerlt.top/wiki/command/kubernetes.html</link>
+      <guid>https://danerlt.top/wiki/command/kubernetes.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">K8S常用命令</source>
       <description>K8S常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> K8S常用命令</h1>
@@ -55,9 +55,9 @@
     </item>
     <item>
       <title>Linux常用命令</title>
-      <link>https://danerlt.top/command/linux.html</link>
-      <guid>https://danerlt.top/command/linux.html</guid>
-      <source url="https://danerlt.top/rss.xml">Linux常用命令</source>
+      <link>https://danerlt.top/wiki/command/linux.html</link>
+      <guid>https://danerlt.top/wiki/command/linux.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">Linux常用命令</source>
       <description>Linux常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Linux常用命令</h1>
@@ -65,9 +65,9 @@
     </item>
     <item>
       <title>MongoDB常用命令</title>
-      <link>https://danerlt.top/command/mongodb.html</link>
-      <guid>https://danerlt.top/command/mongodb.html</guid>
-      <source url="https://danerlt.top/rss.xml">MongoDB常用命令</source>
+      <link>https://danerlt.top/wiki/command/mongodb.html</link>
+      <guid>https://danerlt.top/wiki/command/mongodb.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">MongoDB常用命令</source>
       <description>MongoDB常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> MongoDB常用命令</h1>
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>MySQL常用命令</title>
-      <link>https://danerlt.top/command/mysql.html</link>
-      <guid>https://danerlt.top/command/mysql.html</guid>
-      <source url="https://danerlt.top/rss.xml">MySQL常用命令</source>
+      <link>https://danerlt.top/wiki/command/mysql.html</link>
+      <guid>https://danerlt.top/wiki/command/mysql.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">MySQL常用命令</source>
       <description>MySQL常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> MySQL常用命令</h1>
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>Redis常用命令</title>
-      <link>https://danerlt.top/command/redis.html</link>
-      <guid>https://danerlt.top/command/redis.html</guid>
-      <source url="https://danerlt.top/rss.xml">Redis常用命令</source>
+      <link>https://danerlt.top/wiki/command/redis.html</link>
+      <guid>https://danerlt.top/wiki/command/redis.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">Redis常用命令</source>
       <description>Redis常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Redis常用命令</h1>
@@ -95,9 +95,9 @@
     </item>
     <item>
       <title>vim常用命令</title>
-      <link>https://danerlt.top/command/vim.html</link>
-      <guid>https://danerlt.top/command/vim.html</guid>
-      <source url="https://danerlt.top/rss.xml">vim常用命令</source>
+      <link>https://danerlt.top/wiki/command/vim.html</link>
+      <guid>https://danerlt.top/wiki/command/vim.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">vim常用命令</source>
       <description>vim常用命令</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> vim常用命令</h1>
@@ -105,9 +105,9 @@
     </item>
     <item>
       <title>IDEA系列激活</title>
-      <link>https://danerlt.top/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</link>
-      <guid>https://danerlt.top/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</guid>
-      <source url="https://danerlt.top/rss.xml">IDEA系列激活</source>
+      <link>https://danerlt.top/wiki/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</link>
+      <guid>https://danerlt.top/wiki/tools/ide/IDEA%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB.html</guid>
+      <source url="https://danerlt.top/wiki/rss.xml">IDEA系列激活</source>
       <description>IDEA系列激活 以 WebStorm 2022.2.3 为例 安装 WebStorm 点击 WebStorm-2022.2.3.exe,然后点击next 设置如下: 等待安装完成,点击finish</description>
       <pubDate>Sun, 23 Apr 2023 06:38:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1> IDEA系列激活</h1>
