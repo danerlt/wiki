@@ -85,8 +85,8 @@ docs 目录结构如下：
 docs
 |── .vuepress               # 网站配置
 │   ├── config.ts           # 网站环境依赖和网站属性
-│   ├── sidebar.ts          # 侧边栏
-│   ├── navbar.ts           # 导航栏
+│   ├── sidebar.ts.bak          # 侧边栏
+│   ├── navbar.ts.bak           # 导航栏
 │   ├── theme.ts            # 主题和插件
 │   └── templateBuild.html  # 网页模板，网站关键词和统计
 |── _posts                  # 博客文章目录
@@ -97,7 +97,7 @@ docs
 └── intro.md                # 博主个人介绍
 ```
 
-`docs/.vuepress` 路径下是网站的配置文件，我已添加了详细的注释。你可以参考注释和 [vuepress-theme-hope 配置案例](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/main/docs/theme/src/.vuepress)来调整配置。请在 `docs/.vuepress/sidebar.ts` 文件中修改文件夹路径，后台会自动抓取路径下的 md 文件来生成侧边栏。`docs/.vuepress/theme.ts` 有[评论插件](https://newzone.top/web/Comments.html)的相关配置。
+`docs/.vuepress` 路径下是网站的配置文件，我已添加了详细的注释。你可以参考注释和 [vuepress-theme-hope 配置案例](https://github.com/vuepress-theme-hope/vuepress-theme-hope/tree/main/docs/theme/src/.vuepress)来调整配置。请在 `docs/.vuepress/sidebar.ts.bak` 文件中修改文件夹路径，后台会自动抓取路径下的 md 文件来生成侧边栏。`docs/.vuepress/theme.ts` 有[评论插件](https://newzone.top/web/Comments.html)的相关配置。
 
 注意：
 
@@ -230,8 +230,8 @@ LearnData
 │   |── .vuepress               # 比对升级
 │   │   ├── config.ts           # 大升级时需比对升级
 │   │   ├── theme.ts            # 大升级时需比对升级
-│   │   ├── sidebar.ts          # 侧边栏，一般不变
-│   │   ├── navbar.ts           # 导航栏，一般不变
+│   │   ├── sidebar.ts.bak          # 侧边栏，一般不变
+│   │   ├── navbar.ts.bak           # 导航栏，一般不变
 │   │   ├── templateBuild.html  # 网页模板，一般不变
 │   │   └── public              # 自定义文档，一般不变
 │   |── reading                 # 读书笔记，一般不变
@@ -247,4 +247,4 @@ LearnData
 - [x] 增加文章互动区块，让读者能通过 emoji 简便与作者沟通。
 - [x] 看板娘：远程支持 api，也可使用本地文件。
 - [x] 样式调整：黑色主题调整深紫色；调整 TOC 规则。
-- [x] typo 修正：v1.0.3 之前的版本升级需将「docs\.vuepress\sidebar.ts」中的「collapsable」全部替换为「collapsible」。
+- [x] typo 修正：v1.0.3 之前的版本升级需将「docs\.vuepress\sidebar.ts.bak」中的「collapsable」全部替换为「collapsible」。

@@ -1,15 +1,15 @@
 import { path } from "@vuepress/utils";
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
-import sidebar from "./sidebar";
+// import sidebar from "./sidebar";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://danerlt.top",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "danerlt",
+    url: "https://danerlt.top",
   },
 
   iconAssets: "iconfont",
@@ -35,7 +35,7 @@ export default hopeTheme({
   fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: "rockbenben/LearnData",
+  repo: "danerlt/wiki",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitHub",
   // 是否在导航栏内显示仓库链接，默认为 `true`
@@ -55,7 +55,8 @@ export default hopeTheme({
   // navbarAutoHide: "always",
 
   // sidebar
-  sidebar: sidebar,
+  // sidebar: sidebar,
+  sidebar: "structure",
   // 侧边栏排序规则
   // sidebarSorter: ['readme', 'order', 'title'],
 
